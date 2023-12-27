@@ -1,0 +1,34 @@
+
+{
+    "Name" : "Abdullmajeed",
+    "Age"  : 27,
+    "Location" : "Muscat",
+    "Orders" : {
+        "order1" : ["nnn", "hhhhj" , "hh"]
+
+    }
+    
+        
+           
+    
+         "name": "John Doe",
+         "age": 30,
+          "location": "New York"
+    
+     
+    
+        "name": "Jane Smith",
+        "age": 25,
+         "location": "London"
+     
+     
+       "name": "Maria Garcia",
+     "age": 35,
+     "location": "Madrid"
+            
+
+            
+        
+        
+    
+}
